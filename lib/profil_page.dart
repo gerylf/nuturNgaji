@@ -8,7 +8,7 @@ import 'fire_auth.dart';
 import 'login_page.dart';
 
 class ProfilPage extends StatefulWidget {
-  final User user;
+  final user user;
 
   const ProfilPage({Key? key, required this.user}) : super(key: key);
 
