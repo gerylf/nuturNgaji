@@ -84,9 +84,9 @@ class _ProfilePageState extends State<ProfilPage> {
           children: [
             ClipOval(
               child: Image.asset(
-                'assets/dean.jpg',
-                width: 100.0,
-                height: 100.0,
+                'assets/nuturngaji.jpg',
+                width: 200.0,
+                height: 200.0,
                 fit: BoxFit.cover,
               ),
             ),
